@@ -3,6 +3,12 @@ Sistema realizado con PyQt5 y SQLalchemy para un emprendimiento de venta de ensa
 Requerimientos:
 pip install pyqt5 sqlalchemy sqlalchemy_mixins
 
+Para ejecutar el sistema por primera vez (genera los archivos .py a partir de los archivos de QT .ui):
+./start 
+
+Luego de la primera ejecuci:
+python3 Pausa_Natural.py
+
 ![imagen](https://user-images.githubusercontent.com/45213530/147037907-8d745945-0779-4494-ae22-654c20ca27dd.png)
 
 
