@@ -1,0 +1,9 @@
+#!/bin/bash
+
+pyuic5 -x ./Visual/ventana.ui -o ./Visual/ventana.py
+pyuic5 -x ./Visual/widget_cliente.ui -o ./Visual/widget_cliente.py
+pyuic5 -x ./Visual/widget_pedido.ui -o ./Visual/widget_pedido.py
+
+python3 Pausa_Natural.py
+
+    
